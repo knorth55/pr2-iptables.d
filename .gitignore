@@ -1,0 +1,5 @@
+debian/.debhelper/*
+debian/files
+debian/pr2-iptables.d.debhelper.log
+debian/pr2-iptables.d.substvars
+debian/pr2-iptables.d/*
